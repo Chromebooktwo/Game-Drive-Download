@@ -1,2 +1,1 @@
-Download the Game Drive Zip file, then copy the stuff inside on a USB or just start using the games/tools inside the zip!
-Also try to make the files read and wright insted of just read only...
+Download the Game Drive Zip file, then copy the stuff inside on a USB or a storage device, then you can play games anywhere. The Game Drive was created for destribution threw a USB, I use it for downloading the games on many devices like computers and chromebooks or anything that has a screen, keyboard and mouse/trackpad. More info is inside GameDriveInfoPageREADME.html which is inside the zip.
