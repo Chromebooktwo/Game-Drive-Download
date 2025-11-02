@@ -2,4 +2,5 @@ The Game Drive Zip was made to be put on a USB or a storage device, but if you w
 Also, if you see a folder named "__MACOSX", it is not necessary and was created when I transferred the Game Drive Zip file from my iMac to GitHub. For some reason, GitHub zip files from iMac include the "__MACOSX" folder. You can safely delete it if you come across it, it is not required for the Game Drive!
 Also, I don't think that I will keep updating this project anymore, even if the games/time wasting games and tools break. I am probably going to do other projects instead, but just like G - Home I will leave this project still up!
 
-New G - Home edit (If new G - Home actually will become a thing, we probably going to make it work out): To clarify I still will not update the Game Drive. I just want to explain that "but just like G - Home I will leave this project still up!" is talking about the shutdown for updates of the old G - Home website at: https://milannikulin.website3.me/ 
+New G - Home edit: To clarify I still will not update the Game Drive. I just want to explain that "but just like G - Home I will leave this project still up!" is talking about the shutdown for updates of the old G - Home website at: https://milannikulin.website3.me/ 
+Check out my G-Home repo to find the new G - Home website code!
